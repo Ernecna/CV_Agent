@@ -2,7 +2,7 @@ import requests
 import json
 from typing import Dict, Tuple
 
-API_KEY = "AIzaSyCz_nkFk_okMP_jdfvyuI0p3zHwk8XiIAM"
+API_KEY = "***"
 BASE_URL = "https://generativelanguage.googleapis.com/v1beta/models"
 
 
